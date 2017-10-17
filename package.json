@@ -1,0 +1,32 @@
+{
+  "name": "introduction-to-es6",
+  "version": "1.0.0",
+  "description": "checking out es6 features",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kawnayeen/introduction-to-es6.git"
+  },
+  "author": "Muhammad Kamarul Kawnayeen",
+  "bugs": {
+    "url": "https://github.com/kawnayeen/introduction-to-es6/issues"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/kawnayeen/introduction-to-es6#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babelify": "^7.3.0",
+    "browserify": "^14.0.0",
+    "chai": "^4.1.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-connect": "^5.0.0",
+    "gulp-mocha": "^4.3.1",
+    "gulp-uglify": "^3.0.0",
+    "mocha": "^4.0.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
